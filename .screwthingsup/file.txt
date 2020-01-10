@@ -15,3 +15,5 @@ var
 test;
 
 var a = b
+
+var a b
