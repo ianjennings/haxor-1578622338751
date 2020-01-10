@@ -17,3 +17,6 @@ test;
 var a = b
 
 var a b
+
+
+var c d;
